@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=PT+Serif&family=Recursive:wght@300&display=swap');
+
+h1,
+h2,
+h3{
+    font-family: "lora", serif;
+}
+p, ul,ol, input, form, textarea, a{
+    font-family: "recursive", sans-serif;
+}
